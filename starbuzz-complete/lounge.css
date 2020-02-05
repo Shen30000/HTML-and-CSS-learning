@@ -1,0 +1,28 @@
+body {
+    font: small/1.6em Verdana, Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+.artist {
+    font-weight: bold;
+}
+
+a:link {
+    color: #007e7e;
+}
+
+a:visited {
+    color: #333333;
+}
