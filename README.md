@@ -15,6 +15,6 @@ This is a repo that storing my codes when learning HTML and CSS.
 ```
 
 See the achievemt in www.zengkangfu.com
-嘿嘿嘿嘿嘿嘿嘿嘿嘿
-All the translation work was done by internet.
-All the source code is downloaded from "www.wickedlysmart.com"
+<br>嘿嘿嘿嘿嘿嘿嘿嘿嘿</br>
+All the translation work was done by the internet.
+<br>All the source code is downloaded from "www.wickedlysmart.com"</br>
