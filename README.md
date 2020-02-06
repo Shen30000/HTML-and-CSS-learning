@@ -1,6 +1,6 @@
 # Learning HTML and CSS
 
-This is a repo that storing my codes when learning HTML and CSS.
+This is a repo storing my codes when learning HTML and CSS.
 
 ```html
 <nav>
